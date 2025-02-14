@@ -1,0 +1,9 @@
+{
+	"name": "akv140225",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dfddbb75-47c1-4bca-94e0-dd4e7df52dfd",
+		"tenantId": "0e16401f-5b14-4e61-bf22-0683ce0845c8"
+	}
+}
